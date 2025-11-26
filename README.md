@@ -8,7 +8,7 @@ I'm a **Computer Engineer** based in Bucharest, Romania, passionate about **soft
 - **Specialties**: Microservices, Database Design, Web Development, Machine Learning
 
 ### 💻 Currently:
-- **Programmer** at **VEGO Concept Engineering**
+- **SWE** at **VEGO Concept Engineering**
 - Pursuing a **Master’s in e-Government** at **Politehnica University of Bucharest**
 
 ### 🌱 Always Learning:
